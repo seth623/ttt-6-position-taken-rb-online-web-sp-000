@@ -4,4 +4,5 @@ def position_taken?(board, index)
     return false
   elsif array[index] != ""
     return false
+  end
 end
